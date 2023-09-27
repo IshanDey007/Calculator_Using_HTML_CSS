@@ -4,4 +4,4 @@
 <h2>How To Use?</h2>
 <p>To use the app, simply download and open the app in your preferred browser. Once opened, input two numbers and the required arithmetic operation. The app will automatically calculate and display the result.</p>
 
-<h2>Screenshots : bit.ly/4535f6J </h2>
+<h2>Screenshots : https://bit.ly/4535f6J </h2>
